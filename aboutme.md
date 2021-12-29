@@ -3,6 +3,8 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
+![alt text](pictures/me.jpeg)
+
 ## Aloha, my name is Christa Seidl. I am a conservation biologist, disease ecologist and doctoral student. My work focuses on finding science-based conservation solutions for some of the world's most endangered species.
 
 *Current Position*: I am a Ph.D student and National Science Foundation Graduate Research Fellow in the <a href="http://kilpatrick.eeb.ucsc.edu/">Kilpatrick Lab</a> of the <a href="https://www.eeb.ucsc.edu/">Ecology and Evolutionary Biology Department</a> at the <a href="http://www.ucsc.edu">University of California Santa Cruz</a>.  My research focuses on the coevolution and ecology of host-vector-parasite dynamics, with a specific focus on the evolution of avian malaria (<em>Plasmodium relictum</em>) in native and introduced bird communities on the Hawaiian Islands.
