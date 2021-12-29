@@ -1,6 +1,6 @@
 title: "Christa Seidl"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-permalink: {file: "aboutme.md"}
+permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
