@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "About"}
-  - {file: "/research.md", title: "Research"}
-  - {file: "/pubs.md", title: "Publications"}
-  - {file: "/outreach.md", title: "Outreach"}
-  - {file: "/cseidl.pdf", title: "CV"}
+  - {file: "research.md", title: "Research"}
+  - {file: "pubs.md", title: "Publications"}
+  - {file: "outreach.md", title: "Outreach"}
+  - {file: "cseidl.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/cmseidl/"}
