@@ -2,6 +2,9 @@
 layout: page
 title: "Research"
 ---
+
+![pic of canopy](/cmseidl.github.io/assets/images/canopy.jpeg)
+---
 I have cross-disciplinary research experience in biology and ecology, with extensive experience in disease ecology, ornithology, botany, horticulture, applied ecosystem management, and science education.
 
 My research broadly investigates the interactions between organisms and their environment, asking what are the consequences of anthropogenic change for species population dynamics?
