@@ -2,7 +2,9 @@
 title: "About"
 layout: page
 ---
-![photo of me](/cmseidl.github.io/assets/images/me.jpeg)
+<p align="center">
+  <img {width="300" height="300" src="/assets/images/me.jpeg" alt="Avatar" class = "Avatar">
+</p>
 
 ## Aloha, my name is Christa Seidl. I am a conservation biologist, disease ecologist and doctoral student. My work focuses on finding science-based conservation solutions for some of the world's most endangered species.
 
