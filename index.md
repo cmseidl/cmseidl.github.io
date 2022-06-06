@@ -3,7 +3,7 @@ title: "About"
 layout: page
 ---
 <p align="center">
-  <img {width="300" height="300" src="/assets/images/me.jpeg" alt="Avatar" class = "Avatar">
+  <img {width="300" height="300" src="/assets/images/me.jpeg" alt="Avatar" class = "Avatar"}>
 </p>
 
 ## Aloha, my name is Christa Seidl. I am a conservation biologist, disease ecologist, environmental advocate and educator. I'm passionate about biodiversity conservation and managing the threats posed by infectious diseases to both wildlife and humans. 
